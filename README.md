@@ -62,6 +62,9 @@
 - 🌦️ Weather Forecast App  
   A modern and responsive weather web app that provides real-time weather data and hourly forecasts for any city using WeatherAPI. Supports current location weather and dynamic background gradients based on weather conditions.
 
+- 🧠 **AI Website Builder**  
+  An AI-powered full-stack web app that generates and revises complete websites from prompts with real-time preview, version history, and Tailwind-based responsive layouts, built using React, Node.js, Express, PostgreSQL, Prisma, and AI APIs.
+
 - 💬 Real-Time Group Chat Application  
   Built using Socket.io with Node.js and Express for real-time communication between multiple users.
 

@@ -7,7 +7,7 @@
 - 🎓 B.Tech Computer Science & Engineering Student  
 - 💻 Passionate about Full-Stack Web Development  
 - 🚀 Love building real-world projects and scalable web apps  
-- 🌱 Currently improving DSA, Backend & System Design  
+- 🌱 Currently learning and  improving DSA with Java , Backend & System Design  
 - 🎯 Goal: Become a skilled Software Developer & contribute to impactful tech solutions  
 
 ---

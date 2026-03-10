@@ -58,15 +58,18 @@
 
 ## 🚀 Featured Projects
 
-- 🌦️ Weather Forecast App  
-  A modern and responsive weather web app that provides real-time weather data and hourly forecasts for any city using WeatherAPI. Supports current location weather and dynamic background gradients based on weather conditions.
+- 📊 Feedback Collector with Admin Dashboard  
+  Developed using Flask and SQLite to collect user feedback and manage it through a secure admin panel.
 
 - 🧠 **AI Website Builder**  
   An AI-powered full-stack web app that generates and revises complete websites from prompts with real-time preview, version history, and Tailwind-based responsive layouts, built using React, Node.js, Express, PostgreSQL, Prisma, and AI APIs.
 
 - 💬 Real-Time Group Chat Application  
   Built using Socket.io with Node.js and Express for real-time communication between multiple users.
-
+  
+- 🎨 3D Developer Portfolio  
+  A visually immersive 3D portfolio website showcasing my projects and skills with interactive animations and smooth transitions. Built using React, Three.js, and Tailwind CSS for a      modern, responsive, and engaging user experience.
+  
 - 📝 iTask – Task Manager Web App  
   A productivity web app to manage daily tasks with a clean UI and local storage support.
 
@@ -75,9 +78,10 @@
 
 - 🌐 Fizzi-Fizz – Interactive Modern UI Website  
   A visually rich and animated website built with modern frontend technologies and smooth animations.
+  
+- 🌦️ Weather Forecast App  
+  A modern and responsive weather web app that provides real-time weather data and hourly forecasts for any city using WeatherAPI. Supports current location weather and dynamic background gradients based on weather conditions.
 
-- 📊 Feedback Collector with Admin Dashboard  
-  Developed using Flask and SQLite to collect user feedback and manage it through a secure admin panel.
 
 ---
 

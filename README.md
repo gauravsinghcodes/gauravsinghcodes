@@ -49,7 +49,9 @@
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gauravsinghcodes&show_icons=true&theme=tokyonight)
 
 ## 🔥 GitHub Streak
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=gauravsinghcodes&theme=tokyonight)
+![snake gif](https://github.com/gauravsinghcodes/gauravsinghcodes/blob/output/github-contribution-grid-snake.svg)
 
 ## 💻 Top Languages
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gauravsinghcodes&layout=compact&theme=tokyonight)

@@ -35,6 +35,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 ![Prismic CMS](https://img.shields.io/badge/Prismic_CMS-5163BA?style=for-the-badge&logo=prismic&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socketdotio)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -70,6 +71,7 @@
   Built using Socket.io with Node.js and Express for real-time communication between multiple users.
 
 - 🚀 Bookified: AI Book Companion
+  
    Developed Bookified, an AI voice-powered platform that turns PDFs into interactive conversational companions.
    Users can upload books, ask questions via voice, and receive AI-generated insights and summaries.
 

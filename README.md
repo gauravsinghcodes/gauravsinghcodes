@@ -68,10 +68,11 @@
 
 - 💬 Real-Time Group Chat Application  
   Built using Socket.io with Node.js and Express for real-time communication between multiple users.
-  
-- 🎨 3D Developer Portfolio  
-  A visually immersive 3D portfolio website showcasing my projects and skills with interactive animations and smooth transitions. Built using React, Three.js, and Tailwind CSS for a      modern, responsive, and engaging user experience.
-  
+
+- 🚀 Bookified: AI Book Companion
+   Developed Bookified, an AI voice-powered platform that turns PDFs into interactive conversational companions.
+   Users can upload books, ask questions via voice, and receive AI-generated insights and summaries.
+
 - 📝 iTask – Task Manager Web App  
   A productivity web app to manage daily tasks with a clean UI and local storage support.
 

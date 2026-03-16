@@ -68,7 +68,7 @@
   An AI-powered full-stack web app that generates and revises complete websites from prompts with real-time preview, version history, and Tailwind-based responsive layouts, built using React, Node.js, Express, PostgreSQL, Prisma, and AI APIs.
 
 - 💬 Real-Time Group Chat Application  
-  Built using Socket.io with Node.js and Express for real-time communication between multiple users.
+  Built with React and Socket.io, featuring persistent message history and dynamic room management. It offers a fully responsive, WhatsApp-inspired UI   with live presence tracking and seamless room switching for a state-of-the-art user experience.
 
 - 🚀 Bookified: AI Book Companion
   

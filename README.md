@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
-<h3 align="center">MERN Stack Developer | B.Tech CSE Student | Tech Enthusiast</h3>
+<h3 align="center">MERN / PERN Stack Developer | B.Tech CSE Student | Tech Enthusiast</h3>
 
 ---
 

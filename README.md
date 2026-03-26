@@ -75,7 +75,7 @@
    Developed Bookified, an AI voice-powered platform that turns PDFs into interactive conversational companions.
    Users can upload books, ask questions via voice, and receive AI-generated insights and summaries.
 
-- 📝 iTask – Task Manager 
+- 📝 iTask – Task Manager      
   A productivity web app to manage daily tasks with a clean UI and local storage support.
 
 - 🤖 AI Chatbot  

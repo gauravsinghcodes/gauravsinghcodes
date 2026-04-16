@@ -78,8 +78,8 @@
 - 📝 iTask – Task Manager      
   A productivity web app to manage daily tasks with a clean UI and local storage support.
 
-- 🤖 AI Chatbot  
-  An interactive chatbot with API integration for dynamic responses and user interaction.
+- 📊 Project Management  
+  Built with React, Redux, Node.js/Express,  & PostgreSQL (via Prisma + Neon). It supports multi-workspace collaboration with role-based access, project & task tracking (with priorities,   statuses, and due dates), and team management powered by Clerk for auth and Inngest for real-time background sync. Users get email notifications on task assignments and deployed on     vercel.
 
 - 🌐 Fizzi-Fizz – Interactive Modern UI Website  
   A visually rich and animated website built with modern frontend technologies and smooth animations.

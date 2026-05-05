@@ -82,7 +82,7 @@
   Built with React, Redux, Node.js/Express,  & PostgreSQL (via Prisma + Neon). It supports multi-workspace collaboration with role-based access, project & task tracking (with priorities,   statuses, and due dates), and team management powered by Clerk for auth and Inngest for real-time background sync. Users get email notifications on task assignments and deployed on     vercel.
 
 - 🌐 Fizzi-Fizz – Interactive Modern UI Website  
-  A visually rich and animated website built with modern frontend technologies and smooth animations.
+  A visually rich and animated website built with modern frontend technologies and smooth , attractive  animations.
   
 - 🌦️ Weather Forecast App  
   A modern and responsive weather web app that provides real-time weather data and hourly forecasts for any city using WeatherAPI. Supports current location weather and dynamic background gradients based on weather conditions.

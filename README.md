@@ -47,7 +47,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravsinghcodes&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=gauravsinghcodes)
 
 ## 🔥 GitHub Contribution
 
@@ -55,7 +55,7 @@
 
 
 ## 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=gauravsinghcodes&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-alpha.vercel.app/api/top-langs?username=gauravsinghcodes)
 
 ---
 

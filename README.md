@@ -47,7 +47,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=gauravsinghcodes&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-old.vercel.app/api?username=gauravsinghcodes&show_icons=true&theme=tokyonight)
 
 ## 🔥 GitHub Contribution
 

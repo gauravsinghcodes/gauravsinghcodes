@@ -47,7 +47,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://kayan-github-profile-projects-featu.vercel.app/api?username=gauravsinghcodes)
+![GitHub Stats](https://kayan-github-profile-projects-featu.vercel.app/api?username=gauravsinghcodes&theme=tokyonight&show_icons=true)
 
 ## 🔥 GitHub Contribution
 

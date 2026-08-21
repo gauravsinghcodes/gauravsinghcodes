@@ -47,7 +47,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.tuhidulhossain.com/api?username=gauravsinghcodes&theme=tokyonight)
+![GitHub Stats](https://kayan-github-profile-projects-featu.vercel.app/api?username=gauravsinghcodes)
 
 ## 🔥 GitHub Contribution
 

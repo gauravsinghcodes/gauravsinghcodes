@@ -55,7 +55,7 @@
 
 
 ## 💻 Top Languages
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gauravsinghcodes&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gauravsinghcodes&theme=tokyonight)
 
 
 ---

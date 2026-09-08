@@ -55,7 +55,7 @@
 
 
 ## 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsinghcodes&layout=compact&theme=tokyonight&langs_count=8)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gauravsinghcodes&theme=tokyonight)
 
 
 ---

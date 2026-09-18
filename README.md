@@ -64,31 +64,31 @@
 
 ## 🚀 Featured Projects
 
-- 📊 Feedback Collector with Admin Dashboard  
+- 📊 **Feedback Collector with Admin Dashboard**  
   Developed using Flask and SQLite to collect user feedback and manage it through a secure admin panel.
 
-- 🧠 **AI Website Builder**  
-  An AI-powered full-stack web app that generates and revises complete websites from prompts with real-time preview, version history, and Tailwind-based responsive layouts, built using React, Node.js, Express, PostgreSQL, Prisma, and AI APIs.
+- 🧠 **Real Time Punch Detection**  
+  Developed a real-time face recognition attendance system using **OpenCV (LBPH & Haar Cascade), FastAPI, and SQLite**, enabling automated face registration and IN/OUT attendance punching.
+Built a modern **glassmorphic admin dashboard** with student management, department/year filtering, attendance logs, CSV export, and real-time analytics.
+Optimized performance using **SQLite WAL mode, anti-spam cooldown, and efficient real-time face detection** for fast and reliable attendance processing.
 
-- 💬 Real-Time Group Chat Application  
+
+- 💬 **Real-Time Group Chat Application**  
   Built with React and Socket.io, featuring persistent message history and dynamic room management. It offers a fully responsive, WhatsApp-inspired UI   with live presence tracking and seamless room switching for a state-of-the-art user experience.
 
-- 🚀 Bookified: AI Book Companion
+- 🚀 **Bookified: AI Book Companion**
   
    Developed Bookified, an AI voice-powered platform that turns PDFs into interactive conversational companions.
    Users can upload books, ask questions via voice, and receive AI-generated insights and summaries.
 
-- 📝 iTask – Task Manager      
+- 📝 **iTask – Task Manager**      
   A productivity web app to manage daily tasks with a clean UI and local storage support.
 
-- 📊 Project Management  
+- 📊 **Project Management**  
   Built with React, Redux, Node.js/Express,  & PostgreSQL (via Prisma + Neon). It supports multi-workspace collaboration with role-based access, project & task tracking (with priorities,   statuses, and due dates), and team management powered by Clerk for Auth and Inngest for real-time background sync. Users get email notifications on task assignments and deployed on     vercel.
 
-- 🌐 Fizzi-Fizz – Interactive Modern UI Website  
+- 🌐 **Fizzi-Fizz – Interactive Modern UI Website**  
   A visually rich and animated website built with modern frontend technologies and smooth , attractive  animations.
-  
-- 🌦️ Weather Forecast App  
-  A modern and responsive weather web app that provides real-time weather data and hourly forecasts for any city using WeatherAPI. Supports current location weather and dynamic background gradients based on weather conditions.
 
 
 ---

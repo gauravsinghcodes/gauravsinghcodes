@@ -95,7 +95,6 @@ Optimized performance using **SQLite WAL mode, anti-spam cooldown, and efficient
 
 ## 📫 Connect With Me
 - 📧 Email: gs7august@gmail.com
-- 📱 Phone: +91-8052566305  
 
 ---
 
